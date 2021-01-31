@@ -2,3 +2,5 @@
 
 Arduino Due MIDI Controller designed for use with HPSDR radios and software.
 
+See the Wiki for more details
+
